@@ -1,7 +1,7 @@
 BlogPymongo
 ===========
 
-Blog hecho con Pymongo y MongoDB con el Framework Bottle
+Blog hecho en Pymongo usando MongoDB con el Framework Bottle
 
 >Especificaciones:
 
@@ -15,13 +15,13 @@ SetupTools 0.6c11 https://pypi.python.org/pypi/setuptools/0.6c11
 
 Bottle 0.11 http://bottlepy.org/docs/0.11/
 
->para que corra el Blog:
+>Para que corra el Blog:
 
 inciar la base de datos MongoDB (mongod.exe)
 
 iniciar el Framework Bottle (Blog.py)
 
->rutas:
+>Rutas:
 
 http://localhost:8082/signup
 
